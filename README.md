@@ -18,6 +18,8 @@ Languages I've worked with:
 Tools I've worked with:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) (duh :P)
 
 ![metro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetroTS&show_icons=true&theme=tokyonight)
 
