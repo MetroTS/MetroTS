@@ -6,7 +6,7 @@ I develop hardware and software for problems that need solutions.
 - I'm currently working on a trackpad prototype using piezoeletric transducers.
 - I like to work on projects involving Microcontrollers, Databases or Automations
 
-If you'd like to reach out to me feel free: metrots8.github.com
+If you'd like to reach out to me feel free: metrots8.github@gmail.com
 
 Languages I've worked with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
