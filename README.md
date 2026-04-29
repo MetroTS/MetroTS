@@ -1,6 +1,6 @@
 # Hi I'm MetroTS
 ---
-You're the ![](https://komarev.com/ghpvc/?username=yourusername&color=blue) th visitor!
+You're the ![](https://komarev.com/ghpvc/?username=MetroTS&color=blue) th visitor!
 
 I develop hardware and software for problems that need solutions.
 - I'm currently working on a trackpad prototype using piezoeletric transducers.
