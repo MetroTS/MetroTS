@@ -19,7 +19,7 @@ Tools I've worked with:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![metro's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![metro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetroTS&show_icons=true&theme=tokyonight)
 
 # Projects
 ---
