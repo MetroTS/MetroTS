@@ -23,10 +23,6 @@ If you'd like to reach out to me feel free: metrots8.github@gmail.com
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) (duh :P)
 
----
-
-![metro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetroTS&show_icons=true&theme=tokyonight)
-
 # Projects
 ---
 Check out my pinned repositories to see my current projects!
